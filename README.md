@@ -1,4 +1,4 @@
-# mozilla-webextensions-examples [![Build Status](https://travis-ci.org/mdn/webextensions-examples.svg?branch=master)](https://travis-ci.org/mdn/webextensions-examples)
+# firefox-webextensions-examples [![Build Status](https://travis-ci.org/mdn/webextensions-examples.svg?branch=master)](https://travis-ci.org/mdn/webextensions-examples)
 
 [https://github.com/mdn/webextensions-examples](https://github.com/mdn/webextensions-examples)
 
